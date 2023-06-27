@@ -18,7 +18,7 @@ echo "obj-y       += hailort-drivers/linux/pcie/" >> Makefile
 cd ../../
 ./build.sh kernel
 ```
-# check if hailo_pci.ko is builtfile kernel/drivers/hailort-drivers/linux/pcie/hailo_pci.ko
+# check if hailo_pci.ko is built file kernel/drivers/hailort-drivers/linux/pcie/hailo_pci.ko
 
 
 - Compiling HailoRT PCI Driver in SDK
