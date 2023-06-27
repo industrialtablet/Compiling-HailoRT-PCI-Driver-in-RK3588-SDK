@@ -26,8 +26,7 @@ cd ../../
 - HailoRT Module install
 ![HailoRT Module install](./Documents/pcie.jpeg)
 
-- ko file download
-![ko file download](./Documents/hailo_pci.ko)
+[ko file download](./Documents/hailo_pci.ko)
 
 # Contacts
 
